@@ -1,4 +1,5 @@
-# They're_good_dogs_Brent
+# They're good dogs Brent
+[https://knowyourmeme.com/memes/theyre-good-dogs-brent]
 
 Data wrangling exercise from twitter's "WeRateDogs" account from Udacity's Data Analyst Nanodegree Program.
 
