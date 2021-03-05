@@ -1,7 +1,7 @@
 # They're good dogs Brent
 [https://knowyourmeme.com/memes/theyre-good-dogs-brent]
 
-Data wrangling exercise from twitter's "WeRateDogs" account from Udacity's Data Analyst Nanodegree Program.
+Data wrangling exercise from twitter's "WeRateDogs" account from Udacity's **Data Analyst Nanodegree Program.**
 
 ## Tools
 
@@ -9,7 +9,7 @@ Data wrangling exercise from twitter's "WeRateDogs" account from Udacity's Data 
 - tweepy API for crapping twitter
 - Requests library
 
-## files
+## Files to gather
 - The WeRateDogs Twitter archive. File provided: (twitter_archive_enhanced.csv)
 
 - The tweet image predictions, i.e., what breed of dog (or other object, animal, etc.) is present in each tweet according to a neural network. This file (image_predictions.tsv) is hosted on Udacity's servers and should be downloaded programmatically using the Requests library and the following URL: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
@@ -25,10 +25,10 @@ Data wrangling exercise from twitter's "WeRateDogs" account from Udacity's Data 
 - You do _**not need to gather the tweets beyond August 1st, 2017.**_ You can, but note that you won't be able to gather the image predictions for these tweets since you don't have access to the algorithm used.
 
 ## Deliverables:
-1) Store the clean DataFrame(s) in a CSV file with the main one named _**<u>twitter_archive_master.csv.<u>**_ If additional files exist because multiple tables are required for tidiness, name these files appropriately. Additionally, you may store the cleaned data in a _**<u>SQLite database<u>**_ (which is to be submitted as well if you do).
+1) Store the clean DataFrame(s) in a CSV file with the main one named _**<u>twitter_archive_master.csv.<u>**_ If additional files exist because multiple tables are required for tidiness, name these files appropriately. Additionally, you may store the cleaned data in a _**<u>SQLite database<u>**_.
 
 2) Analyze and visualize your wrangled data in your _**<u>wrangle_act.ipynb<u>**_ Jupyter Notebook. **At least three (3) insights and one (1) visualization must be produced.**
 
-3) Create a 300-600 word **written report** called _**<u>wrangle_report.pdf<u>**_ or _**<u>wrangle_report.html<u>**_ that briefly describes your wrangling efforts. This is to be framed as an internal document.
+3) Report called _**<u>wrangle_report.pdf<u>**_ or _**<u>wrangle_report.html<u>**_ that briefly describes your wrangling efforts. This is to be framed as an internal document.
 
-4) Create a 250-word-minimum written report called _**<u>act_report.pdf<u>**_ or _**<u>act_report.html<u>**_ that communicates the insights and displays the visualization(s) produced from your wrangled data. This is to be framed as an external document, like a blog post or magazine article, for example.
+4) Written report called _**<u>act_report.pdf<u>**_ or _**<u>act_report.html<u>**_ that communicates the insights and displays the visualization(s) produced from your wrangled data. This is to be framed as an external document, like a blog post or magazine article, for example.
