@@ -6,7 +6,7 @@ Data wrangling exercise from twitter's "WeRateDogs" account from Udacity's **Dat
 ## Tools
 
 - Jupyter Notebook
-- tweepy API for crapping twitter
+- tweepy API for scrapping twitter
 - Requests library
 
 ## Files to gather
